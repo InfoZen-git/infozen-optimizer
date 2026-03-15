@@ -18,7 +18,7 @@ Interface moderne en Tkinter avec terminal intégré pour suivre les actions en 
 
 ## 📥 Téléchargements (dernière version)
 
-→ **[Releases](https://github.com/InfoZen-git/infozen-optimizer/infozen.exe)**
+→ **[Releases](https://github.com/InfoZen-git/infozen-optimizer/blob/main/infozen.exe)**
 
 **Version actuelle** : v2.0 (premiers tests)
 
